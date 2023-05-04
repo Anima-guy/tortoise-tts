@@ -132,3 +132,5 @@ dmypy.json
 .models/*
 .custom/*
 results/*
+
+/tortoise/voices/*
